@@ -1,0 +1,10 @@
+c:\users\mark diedericks\documents\visual studio 2017\Projects\Prime Numbers\Primes GPU\bin\Debug\Primes GPU.exe.config
+c:\users\mark diedericks\documents\visual studio 2017\Projects\Prime Numbers\Primes GPU\bin\Debug\Primes GPU.exe
+c:\users\mark diedericks\documents\visual studio 2017\Projects\Prime Numbers\Primes GPU\bin\Debug\Primes GPU.pdb
+c:\users\mark diedericks\documents\visual studio 2017\Projects\Prime Numbers\Primes GPU\bin\Debug\Cloo.dll
+c:\users\mark diedericks\documents\visual studio 2017\Projects\Prime Numbers\Primes GPU\bin\Debug\OpenCLlib.dll
+c:\users\mark diedericks\documents\visual studio 2017\Projects\Prime Numbers\Primes GPU\bin\Debug\Cloo.xml
+c:\users\mark diedericks\documents\visual studio 2017\Projects\Prime Numbers\Primes GPU\bin\Debug\OpenCLlib.pdb
+c:\users\mark diedericks\documents\visual studio 2017\Projects\Prime Numbers\Primes GPU\obj\Debug\Primes GPU.csprojResolveAssemblyReference.cache
+c:\users\mark diedericks\documents\visual studio 2017\Projects\Prime Numbers\Primes GPU\obj\Debug\Primes GPU.exe
+c:\users\mark diedericks\documents\visual studio 2017\Projects\Prime Numbers\Primes GPU\obj\Debug\Primes GPU.pdb

@@ -1,0 +1,6 @@
+c:\users\mark diedericks\documents\visual studio 2017\Projects\Prime Numbers\Primes Two\bin\Debug\Primes Two.exe.config
+c:\users\mark diedericks\documents\visual studio 2017\Projects\Prime Numbers\Primes Two\bin\Debug\Primes Two.exe
+c:\users\mark diedericks\documents\visual studio 2017\Projects\Prime Numbers\Primes Two\bin\Debug\Primes Two.pdb
+c:\users\mark diedericks\documents\visual studio 2017\Projects\Prime Numbers\Primes Two\obj\Debug\Primes Two.csprojResolveAssemblyReference.cache
+c:\users\mark diedericks\documents\visual studio 2017\Projects\Prime Numbers\Primes Two\obj\Debug\Primes Two.exe
+c:\users\mark diedericks\documents\visual studio 2017\Projects\Prime Numbers\Primes Two\obj\Debug\Primes Two.pdb
